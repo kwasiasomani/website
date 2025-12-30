@@ -1,10 +1,7 @@
-# Ujjawal Prasad - Portfolio Website
+# Kwasi Asomani - Portfolio Website
 
 <div align="center">
-  <br />
-  <h2>🚀 Computer Science & Statistics Student | NASA Intern | AI/ML Engineer</h2>
-  <p>A modern, space-themed portfolio showcasing experience from NASA, CosmicBrain AI, and Jumpseat</p>
-  <br />
+
   <div>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
@@ -13,12 +10,7 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </div>
   <br />
-  <p>
-    <a href="mailto:ujjawalprasad111@gmail.com">📧 ujjawalprasad111@gmail.com</a> • 
-    <a href="tel:908-210-4753">📱 (908) 210-4753</a> • 
-    <a href="https://www.linkedin.com/in/ujjawal-prasad/">💼 LinkedIn</a> • 
-    <a href="https://github.com/8wali8">🔗 GitHub</a>
-  </p>
+ 
 </div>
 
 
@@ -82,28 +74,7 @@ This portfolio is built with:
 
 ---
 
-## � Skills Demonstrated
 
-### **Programming Languages**
-- **Python** (95%) - NASA, CosmicBrain AI, Jumpseat, StreamSense
-- **C++** (90%) - CosmicBrain AI physics simulation, Systems programming
-- **JavaScript/TypeScript** (85%) - Full-stack web development
-- **Rust** (85%) - GPU parallelization, system optimization
-- **SQL** (90%) - Database management, 9M+ record handling
-
-### **AI & Machine Learning**
-- **Computer Vision** - YOLO v8, OpenCV, CLIP integration
-- **NLP Processing** - Whisper, LSTM networks, sentiment analysis
-- **Deep Learning** - PyTorch, TensorFlow implementation
-- **Optimization** - Linear programming, resource allocation
-
-### **Web Development**
-- **React Ecosystem** - Hooks, state management, component design
-- **Backend APIs** - RESTful services, WebSocket integration
-- **Database Design** - PostgreSQL optimization, NoSQL with MongoDB
-- **Performance** - Caching, query optimization, scalability
-
----
 
 ## � Quick Start
 
@@ -189,23 +160,7 @@ npm run preview
 
 ---
 
-## 🤝 Connect With Me
 
-- **Email**: [ujjawalprasad111@gmail.com](mailto:ujjawalprasad111@gmail.com)
-- **Phone**: [(908) 210-4753](tel:908-210-4753)
-- **LinkedIn**: [linkedin.com/in/ujjawal-prasad](https://www.linkedin.com/in/ujjawal-prasad/)
-- **GitHub**: [github.com/8wali8](https://github.com/8wali8)
-- **Location**: San Francisco, CA
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
   <p><strong>Built with ❤️ by Ujjawal Prasad</strong></p>
   <p>Open to internship and full-time opportunities in Software Engineering and AI/ML</p>
 </div>
