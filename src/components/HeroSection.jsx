@@ -12,17 +12,18 @@ export const HeroSection = () => {
             <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
             <span className="text-primary opacity-0 animate-fade-in-delay-1">
               {" "}
-              Ujjawal
+             Kwasi
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
-              Prasad
+              Asomani
             </span>
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I design scalable systems and intelligent software that bring ideas to life. From detecting exoplanets at NASA to simulating robotics environments, I focus on building reliable, elegant solutions that make technology work seamlessly for people.
-          </p>
+           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
+             I develop scalable geospatial data pipelines and machine learning solutions that convert raw  data into actionable insights. My work spans remote sensing, deep learning, change detection, and time-series analysis, with a focus on agriculture and economic modelling. I prioritize reliable, production-ready systems that support clear, data-driven decision-making.
+           </p>
+
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
             <a href="#projects" className="cosmic-button">
